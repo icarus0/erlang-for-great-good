@@ -1,6 +1,6 @@
-# erlang-practice
+# erlang-for-great-good
 
-This is Clark DeNunzio's repo for code related to the book [Learn You Some Erland For Great Good](http://learnyousomeerlang.com/) by Fred Hebert.
+This is Clark DeNunzio's repo for code related to the book [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/) by Fred Hebert.
 
 ![Read the eBook here!](http://learnyousomeerlang.com/static/img/splash-book.png)
 
